@@ -1,24 +1,25 @@
-# README
+# Devise Basic Authentication
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://gitHub.com/1akshat) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/1akshat/device_rails_auth/blob/master/LICENSE)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+This Repo is created in order to understand and implement <a href="https://github.com/heartcombo/devise">Devise</a> Auth.
+Built on top of <a href="https://github.com/heartcombo/devise">Devise</a> to enable the basic auth for the users.
 
-* System dependencies
+## How To clone and use?
 
-* Configuration
+* To clone the repo:
+    ```bash
+    git clone https://github.com/1akshat/device_rails_auth.git
+    ```
+* Once cloned, you can follow the following steps.
+    ```bash
+        cd device_rails_auth/
+        # Install all the required gems for the project.
+        gem install
+        # Start the server
+        rails s
+    ```
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+> THANK YOU.
+> If there is an issue running the server or set it up locally in your machine, send me an email <a href="mailto:akshat.akshat6@gmail.com">here</a>.
